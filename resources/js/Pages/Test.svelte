@@ -3,4 +3,4 @@
 
 	console.dir($page.props);
 </script>
-<h1>Hello World!</h1>
+<h1 class="text-stone-600">Hello World!</h1>
